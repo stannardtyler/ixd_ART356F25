@@ -15,3 +15,7 @@ This *text is italized*
 ### This is an image
 
 ![This is a water bear](https://myoctocat.com/assets/images/base-octocat.svg)
+
+### Journal Entries
+
+Visit my [Journal 01](journal/8262025_entry.md)
