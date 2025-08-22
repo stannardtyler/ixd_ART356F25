@@ -14,4 +14,4 @@ This *text is italized*
 
 ### This is an image
 
-![This is a water bear]([https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dw16039191/56240702533326~x20040057.jpg?sw=800&sh=800&sm=fit](https://ichef.bbci.co.uk/news/480/cpsprodpb/1202C/production/_108227737_gettyimages-490477430.jpg.webp)
+![This is a water bear](https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dw16039191/56240702533326~x20040057.jpg?sw=800&sh=800&sm=fit](https://ichef.bbci.co.uk/news/480/cpsprodpb/1202C/production/_108227737_gettyimages-490477430.jpg.webp)
